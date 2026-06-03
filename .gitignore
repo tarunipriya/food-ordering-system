@@ -1,0 +1,22 @@
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# IntelliJ files
+.idea/
+
+# Build folders
+bin/
+build/
+target/
+
+# Dependency jars
+*.jar
